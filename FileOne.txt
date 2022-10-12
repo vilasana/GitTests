@@ -5,4 +5,4 @@ this is on purpose to create a conflict
 adding another line in master branch
 a
 b
-c
+replacing c with another alphabet v
