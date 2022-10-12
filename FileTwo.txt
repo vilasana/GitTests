@@ -8,3 +8,5 @@ commits
 and
 merge
 conflicts
+
+making an intentional change as this line will have no conflicts during the merge
