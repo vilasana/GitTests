@@ -1,7 +1,8 @@
 1
 2
 3
+this is on purpose to create a conflict
 I think this change is made in test1 branch
 a
 b
-c
+replacing c with another alphabet v
