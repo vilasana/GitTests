@@ -2,7 +2,7 @@
 2
 3
 this is on purpose to create a conflict
-adding another line in master branch
+I think this change is made in test1 branch
 a
 b
 replacing c with another alphabet v
