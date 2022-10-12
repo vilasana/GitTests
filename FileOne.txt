@@ -1,7 +1,8 @@
 1
 2
 3
-
+this is on purpose to create a conflict
+adding another line in master branch
 a
 b
 c
